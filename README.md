@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rekhanshdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rekhanshdeshmukh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rekhansh_deshmukh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rekhansh_deshmukh/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/rekhansh_deshmukh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rekhansh_deshmukh/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/https://profiles.topcoder.com/mag-rek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/mag-rek" height="30" width="40" /></a>
 <a href="https://discord.gg/sardarkhan9144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sardarkhan9144" height="30" width="40" /></a>
 </p>
